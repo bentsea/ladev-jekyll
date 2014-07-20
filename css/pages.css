@@ -4,6 +4,8 @@ body {
 
 }
 
+h2{color:#ffff99};
+
 .cimage{
 
 	width:60%;
@@ -29,6 +31,7 @@ a{color:#ffff99;}
 .featurette-divider{color:blue; min-height: 3px; background-color: yellow; border-bottom:2px; border-color: blue;}
 .news{padding:5%;}
 .page{padding:5%;}
+
 
 
 
