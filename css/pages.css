@@ -1,0 +1,34 @@
+body {
+  
+  background-color: #167CB2;
+
+}
+
+.cimage{
+
+	width:60%;
+}
+
+.footer{
+
+	background-color: #167CB2;
+	padding:10px;
+	border-color: #001333;
+}
+
+
+
+.logo{
+
+	min-width: 60px;
+	max-width: 100px;
+}
+.hightlighted{color: #167CB2;}
+.container{color: #FFF;}
+a{color:#ffff99;}
+.featurette-divider{color:blue; min-height: 3px; background-color: yellow; border-bottom:2px; border-color: blue;}
+.news{padding:5%;}
+.page{padding:5%;}
+
+
+

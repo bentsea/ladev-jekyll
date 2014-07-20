@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Another News Posts"
+date:   2014-07-13 21:02:32
+categories: news
+summary: "Just another post in the new feed."
+---
+
+Here is Another news post
+
