@@ -2,7 +2,6 @@
 layout: post
 title:  "Another News"
 date:   2014-07-14 21:02:32
-categories: news
 summary: "First post for the news feed."
 ---
 
