@@ -23,14 +23,14 @@ h2{color:#ffff99};
 .logo{
 
 	min-width: 60px;
-	max-width: 100px;
+	max-width: 140px;
 }
 .hightlighted{color: #167CB2;}
 .container{color: #FFF;}
 a{color:#ffff99;}
 .featurette-divider{color:blue; min-height: 3px; background-color: yellow; border-bottom:2px; border-color: blue;}
-.news{padding:5%;}
-.page{padding:5%;}
+.news{padding-top:10%;}
+.page{padding-top:10%;}
 
 
 

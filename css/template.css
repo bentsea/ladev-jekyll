@@ -3,6 +3,7 @@ body {
   background-color: #167CB2;
 
 }
+a{color:#ffff99;}
 
 .cimage{
 
@@ -23,7 +24,7 @@ body {
 .logo{
 
 	min-width: 60px;
-	max-width: 100px;
+	max-width: 140px;
 }
 .hightlighted{color: #167CB2;}
 .row{color: #FFF;}
