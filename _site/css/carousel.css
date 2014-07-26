@@ -48,13 +48,12 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-color: #777;
+  background-color: #005389;
 }
 .carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
+  
+  min-width: 500px;
+  max-width: 900px;
   height: 500px;
 }
 
@@ -138,6 +137,8 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+
+ 
 }
 
 @media (min-width: 992px) {

@@ -7,8 +7,10 @@ body {
 .cimage{
 
 	width:60%;
+	text-align: center;
 }
 
+.ctext{padding-left: 20%;}
 .footer{
 
 	background-color: #167CB2;
