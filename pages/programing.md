@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programing
+title: Programming
 permalink: /programming/
 ---
 

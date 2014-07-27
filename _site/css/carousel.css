@@ -39,6 +39,12 @@ body {
 .carousel {
   height: 500px;
   margin-bottom: 60px;
+ 
+
+}
+
+#myCarousel{
+  display:none;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -49,13 +55,17 @@ body {
 .carousel .item {
   height: 500px;
   background-color: #005389;
+
 }
 .carousel-inner > .item > img {
-  position:absolute;
+  /*position:absolute;
   left:0;
-  top:0;
-  min-width: 100%;
+  top:0;*/
+  margin-left: auto;
+  margin-right:auto;
+  min-width:768px;
   height: 500px;
+
 }
 
 
@@ -138,8 +148,10 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
-
  
+   #myCarousel{
+    display:block;
+  }
 }
 
 @media (min-width: 992px) {
