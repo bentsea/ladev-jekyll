@@ -29,9 +29,16 @@ h2{color:#ffff99};
 .container{color: #FFF;}
 a{color:#ffff99;}
 .featurette-divider{color:blue; min-height: 3px; background-color: yellow; border-bottom:2px; border-color: blue;}
-.news{padding-top:10%;}
-.page{padding-top:10%;}
+.news{padding-top: 20%;}
+.page{padding-top: 15%;}
 
 
+
+
+@media (min-width: 768px) {
+.news{padding-top: 5%;}
+.page{padding-top: 5%;}
+
+}
 
 
