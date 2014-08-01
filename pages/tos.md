@@ -29,7 +29,7 @@ fully set-up and ready to start their business by Friday, June 13, 2014 at 11:00
 
 LOCATION
 
-LouisiANIME 2014 will be held at Hilton Lafayette, 1521 Pinhook Rd, Lafayette, Louisiana 78752
+LouisiANIME 2015 will be held at Ramada Lafayette Conference Center, 2032 NE Evangeline Thruway, Lafayette, LA 70501
 
 BOOTH CONFIRMATION
 
@@ -64,7 +64,7 @@ ITEMS PROHIBITED FROM SALE WITHIN THE  ARTIST ALLEY:
 
 THEFT
 
-Although we strive to provide a high level of security, LouisiANIME and The Hilton Lafayette are not responsible for damage of loss to property, equipment, or personal vehicles, no matter the cause. We strongly recommend that you provide customers with receipts to avoid disputes.
+Although we strive to provide a high level of security, LouisiANIME and Ramada Lafayette Conference Center are not responsible for damage of loss to property, equipment, or personal vehicles, no matter the cause. We strongly recommend that you provide customers with receipts to avoid disputes.
 
 TRADING
 
