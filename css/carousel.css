@@ -152,10 +152,12 @@ body {
    #myCarousel{
     display:block;
   }
+
+  h1, .h1, h2, .h2, h3, .h3 {margin-top:0px};
 }
 
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 120px;
+    /*margin-top: 120px;*/
   }
 }

@@ -10,8 +10,8 @@ permalink: /rules/
 Louisianime has a PG-13 dress code policy. Generally anything you wear on the convention floor needs to cover as much as modest swimwear.
 
 - No bare feet
-- no nudity
-- no exposed breasts or behinds (no thongs, see through undergarments, ect.)
+- No nudity
+- No exposed breasts or behinds (no thongs, see through undergarments, ect.)
 - Bikini costumes are allowed as long as all areas are covered appropriately.
 - Louisianime staff reserves the right to request anyone change if they deem that the attendee is not dress appropriately in accordance with the hotel dress policy.
 
